@@ -5,6 +5,9 @@ It helps businesses monitor sales trends, product performance, inventory movemen
 
 ---
 
+## Model 
+![Model](./Model.png)
+
 ## ✅ **Dashboard Overview**
 
 The dashboard provides:
@@ -120,4 +123,5 @@ Total Orders = DISTINCTCOUNT(Sales[Order_ID])
 Total Quantity = SUM(Sales[Quantity])
 
 Total Profit = SUM(Sales[Profit])
+# Sales_Dashboard
 # Sales_Dashboard
